@@ -1,1 +1,3 @@
-//binary_heap.h: implementation of binary heap
+//binary_heap.h: header file of binary heap implementation;
+//binary_heap.cpp: source file;
+//example.cpp: example of a main function testing binary heap;

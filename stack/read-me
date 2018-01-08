@@ -1,2 +1,2 @@
-genListStack.h: implementation of generic stack via a doubly linked list;
-genStack.h: implementation of generica stack via a vector;
+//genListStack.h: implementation of generic stack via a doubly linked list;
+//genStack.h: implementation of generica stack via a vector;

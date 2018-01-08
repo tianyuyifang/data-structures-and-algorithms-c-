@@ -1,1 +1,1 @@
-//implementations of basic data structures and algorithms in c++
+implementations of basic data structures and algorithms in c++

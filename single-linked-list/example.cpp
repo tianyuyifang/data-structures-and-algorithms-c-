@@ -1,4 +1,4 @@
-// ******************** build a linked list  ***************
+// ******************** use a linked list  ***************
 
 #include <iostream>
 #include "intSLList.h"

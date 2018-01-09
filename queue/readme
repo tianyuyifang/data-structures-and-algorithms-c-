@@ -1,1 +1,4 @@
-
+genArrayQueue.h: header file for queue implementation via array
+genArrayQueue.cpp: source file for queue implementation via array
+genQueue.h: header file for queue implementation via list
+example.cpp: 

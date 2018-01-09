@@ -1,1 +1,2 @@
-
+pqList.h: header file for priority queue implementation via list;
+example.cpp: example of a main function testing priority queue;

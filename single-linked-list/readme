@@ -1,1 +1,3 @@
-
+intSLList.h: header file for singly linked list implementation;
+intSLList.cpp: source file for singly linked list implementation;
+example.cpp: example of a main function testing singly linked list;
